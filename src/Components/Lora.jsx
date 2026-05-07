@@ -21,15 +21,7 @@ export default function Lora() {
       </div>
 
     
-  {/* Card 3*/}
-      <div className="card">
-        <img src="https://i.pravatar.cc/150?img=5" className="profile-img" />
-        <h2 className="title">Alex</h2>
-        <p className="role">UI Designer</p>
-        <button className="btn">Follow</button>
-      </div>
-
-
+ 
     </div>
   );
 }

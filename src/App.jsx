@@ -13,7 +13,8 @@ import Hero from "./Components/Hero"
 <div>
   <Header />
 <Lora />
-<Lora />
+
+
 
     <Footer />
     <Hero />
