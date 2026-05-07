@@ -1,0 +1,86 @@
+.App {
+font-family: sans-serif;
+text-align: center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.display-flex {
+    display: flex;
+}
+
+header {
+    background-color: rgb(195, 142, 245);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+
+
+
+    
+}
+ header .daymode{
+    background-color: aqua;
+
+ }
+ header .nightmode{
+    background-color: bisque;
+ }
+
+
+.footer {
+      padding: 20px;
+       background-color: rgb(140, 63, 255); 
+       text-align: center;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       height: 50vh;
+       font-size: 25px;
+}
+
+.hero{
+    
+        background-color: rgb(122, 46, 193);
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+       
+}
+
+
+
+header .logo {
+    font-size: 20px;
+    background-color: #000;
+    color: white;
+    padding: 6px;
+    border-radius: 6px;
+
+}
+header .nav a {
+    color: #140202;
+    display: block;
+    margin:  3px;
+    padding:  5px;
+    
+
+}
+
+ul {
+    list-style: none;
+    margin:0;
+    padding: 0;
+
+}
+
+a{
+    text-decoration: none;
+
+}
+
